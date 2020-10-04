@@ -1,0 +1,23 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  text-align: center;
+}
+
+body, html {
+  height: 100%;
+}
+
+.bg {
+
+  background-image: url('./img/fondo.jpg');
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
